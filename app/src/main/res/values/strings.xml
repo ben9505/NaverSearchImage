@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NaverSearchImage</string>
+    <string name="naver_clientId">cGbB7lxz20zh8Vmql5ok</string>
+    <string name="naver_secret">b80K99CwEU</string>
+    <string name="error_network">Network offline</string>
+    <string name="search">Search</string>
+    <string name="error_empty">List image is empty</string>
+</resources>
